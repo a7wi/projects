@@ -60,7 +60,7 @@ print(name)
 uid = input("What is your username?:  ")
 print(f"Welcome {uid}!")
 
-bc = input("What is your bodycount?")
+bc = input("What is your bodycount?:  ")
 bc = float(bc)
 if bc:
     print("Wow im actually surprised you managed to bag someone xD i didnt have very high hopes for you yk")
@@ -71,5 +71,7 @@ else:
 
 
 
-length = input("Length: ")
-width = input("Width:  ")
+length = int(input("Length: "))
+width = int(input("Width:  "))
+area = length * width
+print(area)
