@@ -13,13 +13,15 @@ def myfunc():
 
 myfunc()
 
-#print("Python is " + x) 
+print("Python is " + x) 
 
+def myfunc():
+  print("nigga")
 x = 5j
 
 print(type(x))
 
-#x = int(x)
+x = 5
 print(type(x)) 
 print(x)
 
