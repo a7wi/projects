@@ -1,1 +1,1 @@
-https://cdn.discordapp.com/attachments/1328379471186759751/1332928106805334148/ezgif.com-animated-gif-maker_3.gif?ex=67ecbb09&is=67eb6989&hm=6674f4f720b769252d937605f16549410d0dc026da62fe921d72126bac30aaa4&
+![](https://cdn.discordapp.com/attachments/1328379471186759751/1332928106805334148/ezgif.com-animated-gif-maker_3.gif?ex=67ecbb09&is=67eb6989&hm=6674f4f720b769252d937605f16549410d0dc026da62fe921d72126bac30aaa4&)
